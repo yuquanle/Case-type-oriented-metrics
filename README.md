@@ -1,6 +1,6 @@
 <h1 align="center">[Manuscript] On Imbalance in Case Types: Evaluating and Enhancing PLMs for Criminal Court View Generation</h1>
 
-* 🎈 Manuscript is under review since August 21, 2024.
+* 🎈 Manuscript is under review since September 28, 2024.
 * 💻 [Github Link](https://github.com/yuquanle/Case-type-oriented-metrics)
 * 📖 [Paper Link](...)
 * 📁 [Datasets Link](https://github.com/bigdata-ustc/C3VG)
